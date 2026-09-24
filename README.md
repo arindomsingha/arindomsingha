@@ -4,10 +4,10 @@
 
 I'm **Arindom**, an aspiring software developer passionate about building things and exploring new technologies. I enjoy turning ideas into practical projects while continuously improving my problem-solving and development skills.
 
-- 💻 Currently focused on **Full-Stack Development, DSA & Cloud Computing**
-- 🚀 Enjoy participating in **hackathons and collaborative projects**
-- ☁️ Interested in **Cloud Computing and deploying applications**
-- 🌱 Always learning and experimenting with new technologies
+- Currently focused on Full-Stack Development, DSA & Cloud Computing
+- Enjoy participating in hackathons and collaborative projects
+- Interested in Cloud Computing and deploying applications
+- Always learning and experimenting with new technologies
 
 ## 🛠️ Languages & Tools
 
