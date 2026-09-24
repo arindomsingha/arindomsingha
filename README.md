@@ -1,50 +1,32 @@
 ![Header](./github-header-banner.png)
 
-## 📌 About Me
+## About Me
 
-I'm **Arindom**, an aspiring software developer passionate about building things and exploring new technologies. I enjoy turning ideas into practical projects while continuously improving my problem-solving and development skills.
+I'm Arindom, an aspiring software developer interested in building practical solutions and exploring new technologies.
 
-- Currently focused on Full-Stack Development, DSA & Cloud Computing
-- Enjoy participating in hackathons and collaborative projects
-- Interested in Cloud Computing and deploying applications
-- Always learning and experimenting with new technologies
+Currently, I'm focused on Full-Stack Development, Data Structures & Algorithms, and Cloud Computing. I enjoy participating in hackathons and collaborative projects, where I can apply what I learn to real-world problems.
 
-## 🛠️ Languages & Tools
+I'm continuously improving my development and problem-solving skills through hands-on projects.
+
+## Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode,figma,aws&perline=6" />
 </p>
 
-## 📊 GitHub Stats & Streak
+## Connect with Me
 
-<p align="center">
-  <a href="https://github.com/arindomsingha">
-    <img 
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=arindomsingha&show_icons=true&theme=nightowl&hide_border=true&border_radius=10"
-      alt="Arindom's GitHub Stats"
-    />
-  </a>
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com/?user=arindomsingha&theme=nightowl&hide_border=true"
-    alt="Arindom's GitHub Streak"
-  />
-</p>
-
-## 🔗 Connect with Me
+I'm always open to connecting with fellow developers, collaborating on projects, and discussing technology.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arindom-singha-810a78384/">
-    <img
-      src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"
-      alt="LinkedIn"
-      width="40"
-    />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"
+         alt="LinkedIn"
+         width="40" />
   </a>
 </p>
 
-## 🎮 Breakout
+## Breakout
 
 <p align="center">
   <picture>
