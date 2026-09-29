@@ -8,7 +8,7 @@ Currently, I'm focused on Full-Stack Development, Data Structures & Algorithms, 
 
 I'm continuously improving my development and problem-solving skills through hands-on projects.
 
-## Languages & Tools
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,fastapi,postgres,git,figma,aws&perline=6" />
