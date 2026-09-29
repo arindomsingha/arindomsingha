@@ -11,7 +11,7 @@ I'm continuously improving my development and problem-solving skills through han
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,fastapi,postgres,git,github,vscode,figma,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,fastapi,postgres,git,figma,aws&perline=6" />
 </p>
 
 ## Connect with Me
