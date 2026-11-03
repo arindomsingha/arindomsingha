@@ -11,17 +11,23 @@ I'm continuously improving my development and problem-solving skills through han
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,fastapi,postgres,git,figma,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,fastapi,postgres,git,github,vscode,figma,postman,aws&perline=8" />
 </p>
 
 ## Connect with Me
 
-I'm always open to connecting with fellow developers, collaborating on projects, and discussing technology.
+I'm always open to connecting with fellow developers, collaborating on projects, and discussing technology. Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arindom-singha-810a78384/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"
          alt="LinkedIn"
+         width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lordarindomsingha@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         alt="Email"
          width="40" />
   </a>
 </p>
