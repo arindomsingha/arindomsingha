@@ -19,16 +19,22 @@ I'm continuously improving my development and problem-solving skills through han
 I'm always open to connecting with fellow developers, collaborating on projects, and discussing technology. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arindom-singha-810a78384/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"
-         alt="LinkedIn"
-         width="40" />
+  <a href="https://www.linkedin.com/in/arindom-singha-810a78384/" style="text-decoration:none;">
+    <img
+      src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"
+      alt="LinkedIn"
+      width="50"
+      style="border:0;"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lordarindomsingha@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335"
-         alt="Email"
-         width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lordarindomsingha@gmail.com" style="text-decoration:none;">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      alt="Email"
+      width="50"
+      style="border:0;"
+    />
   </a>
 </p>
 
